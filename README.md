@@ -1,4 +1,6 @@
-<h1>Fizemos um projeto chamado 'carrinho' só para que possamos conhecer uma base de como se constroi um e-comerce</h1>
+<h1>Fizemos um projeto chamado 'carrinho' só para que possamos conhecer uma base de como se constrói um e-comerce</h1>
+
+<h2>Aqui ta as técnologias que usamos no projeto</h2>
 
 <ul>
   <li>Bootstrap</li>
